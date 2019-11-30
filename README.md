@@ -2,29 +2,29 @@
 
 <details>
 <summary>Step 1 </summary>
-* Fork repo from Pluralsight
-* Make local repo
-* Open files with VS Code
+<ul><li>Fork repo from Pluralsight</li>
+<li>Make local repo</li>
+<li>Open files with VS Code</li></ul>
 </details>
 
 <details>
 <summary>Step 2 </summary>
-* Create main design in html
-* Set up macro for other html pages
+<ul><li>Create main design in html</li>
+<li>Set up macro for other html pages</li></ul>
 </details>
 
 <details>
 <summary>Step 3 </summary>
-* Create routes for job info
+<ul><li>Create routes for job info</li></ul>
 </details>
 
 <details>
 <summary>Step 4 </summary>
-* Add SQL queries
+<ul><li>Add SQL queries</li></ul>
 </details>
 
 <details>
 <summary>Step 5 </summary>
-* Test
+<ul><li>Test</li></ul>
 </details>
 
